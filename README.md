@@ -9,13 +9,13 @@ Real-Time Analysis: Utilizes Google Search grounding to provide up-to-date finan
 
 Structured Reporting: Enforces a professional equity research format for company analysis, including:
 
-1.Company Overview (Ticker, Market Cap, Industry)
+1. Company Overview (Ticker, Market Cap, Industry)
 
-2.Recent Financial Performance (Revenue, EPS)
+2. Recent Financial Performance (Revenue, EPS)
 
-3.Recent News & Catalysts
+3. Recent News & Catalysts
 
-4.Outlook & Analyst Sentiment
+4. Outlook & Analyst Sentiment
 
 ## Key Risks
 
