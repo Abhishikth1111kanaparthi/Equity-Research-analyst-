@@ -2,7 +2,7 @@
 
 A powerful, real-time equity research tool built as a chatbot using Streamlit and the Google Gemini API with Search Grounding. This application allows users to request detailed, structured analysis reports on publicly traded companies, ensuring the data is current and cited.
 
-##✨ Features
+## ✨ Features
 
 Real-Time Analysis: Utilizes Google Search grounding to provide up-to-date financial data, news, and market insights.
 
