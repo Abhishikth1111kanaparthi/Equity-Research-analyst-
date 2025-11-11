@@ -16,13 +16,13 @@ Recent News & Catalysts
 
 Outlook & Analyst Sentiment
 
-Key Risks
+## Key Risks
 
 Conversational Interface: Built with Streamlit, maintaining chat history for continuous research sessions.
 
 Source Citations: Automatically includes links to the sources used to generate the report for full transparency and verification.
 
-⚙️ Prerequisites
+## ⚙️ Prerequisites
 
 Before running the application, ensure you have the following installed:
 
